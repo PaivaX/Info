@@ -1,3 +1,3 @@
 <a href="http://rpx.pt" title="Website">
-	<img alt="Hello, I'm Junho Yeo" src="https://github.com/junhoyeo/junhoyeo/raw/main/images/title.png?v=2" width="612" />
+	<img alt="Hello, I'm Junho Yeo" src="https://rpx.pt/wp-content/uploads/2022/03/Logo_Rui.png" width="612" />
 </a>
