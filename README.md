@@ -11,8 +11,6 @@
 
 - 📝 My WebSite https://rpx.pt
 
-- 💬 Ask me about **nmbnn**
-
 - 📫 How to reach me **rui.paiva88@gmail.com**
 
 - 📄 Know about my experiences https://github.com/PaivaX/PaivaX/blob/main/CV
