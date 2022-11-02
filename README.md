@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hhjhh&label=Profile%20views&color=0e75b6&style=flat" alt="hhjhh" /> </p>
 
-- 🔭 I’m currently working on **bhjjbh**
+- 🔭 I’m currently working on **Online Business**
 
-- 🌱 I’m currently learning **bbh**
+- 🌱 I’m currently learning **RUBY & PYTHON**
 
-- 👨‍💻 All of my projects are available at [bjhbjh](bjhbjh)
+- 👨‍💻 All of my projects are available at https://github.com/PaivaX
 
-- 📝 I regularly write articles on [hjbhj](hjbhj)
+- 📝 My WebSite https://rpx.pt
 
 - 💬 Ask me about **nmbnn**
 
