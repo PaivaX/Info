@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **rui.paiva88@gmail.com**
 
-- 📄 Know about my experiences [nbhbhjh](nbhbhjh)
+- 📄 Know about my experiences https://github.com/PaivaX/PaivaX/blob/main/CV
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
