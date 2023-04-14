@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Online Business**
 
-- 🌱 I’m currently learning **RUBY & PYTHON**
+- 🌱 I’m currently learning **RUBY & PYTHON & KOTLIN**
 
 - 👨‍💻 All of my projects are available at https://github.com/PaivaX
 
